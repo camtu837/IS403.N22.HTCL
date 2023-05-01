@@ -22,7 +22,7 @@ Giảng viên: Gs. Ts. Nguyễn Đình Thuân - thuannd@uit.edu.vn
 | 20520797 | Nguyễn Thu Thủy | 20520797@gm.uit.edu.vn |  
 | 20521847 | Nguyễn Thanh Sơn | 20521847@gm.uit.edu.vn |
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Thông tin bài báo cáo <b</b> ...</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Thông tin bài báo cáo <b></b> ...</em>
 
 ---
 
