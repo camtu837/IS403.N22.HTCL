@@ -6,11 +6,11 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Thông tin môn học...  
 
 ```javascript
-| MSSV | Họ và tên | Gmail | Github |
-|--------------|-------|------|-------|
-| 20520837 | Nguyễn Cẩm Tú | 20520837@gm.uit.edu.vn | https://github.com/camtu837 
-| 20520797 | Nguyễn Thu Thủy | 20520797@gm.uit.edu.vn |  
-| 20521847 | Nguyễn Thanh Sơn | 20521847@gm.uit.edu.vn |
+Tên môn học: Phân tích dữ liệu kinh doanh
+Mã môn học: IS403
+Mã lớp: IS403.N22.HTCL
+Năm học: 2023-2024
+Giảng viên: Gs. Ts. Nguyễn Đình Thuân - thuannd@uit.edu.vn
 ```
 
 
