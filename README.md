@@ -10,7 +10,7 @@ Tên môn học: Phân tích dữ liệu kinh doanh
 Mã môn học: IS403
 Mã lớp: IS403.N22.HTCL
 Năm học: 2023-2024
-Giảng viên: Gs. Ts. Nguyễn Đình Thuân - thuannd@uit.edu.vn
+Giảng viên: Pgs. Ts. Nguyễn Đình Thuân - thuannd@uit.edu.vn
 ```
 
 
