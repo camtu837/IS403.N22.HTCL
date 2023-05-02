@@ -19,7 +19,7 @@ Giảng viên: Pgs. Ts. Nguyễn Đình Thuân - thuannd@uit.edu.vn
 | MSSV | Họ và tên | Gmail | Github |
 |--------------|-------|------|-------|
 | 20520837 | Nguyễn Cẩm Tú | 20520837@gm.uit.edu.vn | https://github.com/camtu837 
-| 20520797 | Nguyễn Thu Thủy | 20520797@gm.uit.edu.vn |  
+| 20520797 | Nguyễn Thu Thủy | 20520797@gm.uit.edu.vn | https://github.com/nttt0201
 | 20521847 | Nguyễn Thanh Sơn | 20521847@gm.uit.edu.vn |
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Thông tin bài báo cáo <b></b> ...</em>
